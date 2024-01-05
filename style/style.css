@@ -1,50 +1,47 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
-    
 }
 
-
-
-.texto__section{
+.texto__section {
     font-size: 0.80rem;
     color: white;
 }
 
-.div__facilidades{
+.div__facilidades {
     width: 20rem;
 }
 
-.btn{
+.btn {
     background: #9353FF;
     border: #9353FF;
 }
 
-.bi{
+.bi {
     color: #9353FF;
 }
 
-.img__banner{
+.img__banner {
     width: 96%;
     align-items: center;
 }
 
-.texto__div-section1{
+.texto__div-section1 {
     color: black;
     font-size: 1rem;
 }
 
-.texto__section{
+.texto__section {
     color: black;
 }
 
-.titulo__facilidades{
+.titulo__facilidades {
     color: black;
 }
 
-.titulo__produtos{
+.titulo__produtos {
     font-size: 1.5rem;
 }
 
-.img__principal{
+.img__principal {
     width: 100%;
 }
